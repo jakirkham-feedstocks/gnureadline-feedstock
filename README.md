@@ -11,6 +11,18 @@ Summary: The standard Python readline extension statically linked against the GN
 
 
 
+Current build status
+====================
+
+Linux: ![](https://cdn.rawgit.com/conda-forge/conda-smithy/90845bba35bec53edac7a16638aa4d77217a3713/conda_smithy/static/disabled.svg)
+OSX: [![TravisCI](https://travis-ci.org/conda-forge/gnureadline-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/gnureadline-feedstock)
+Windows: ![](https://cdn.rawgit.com/conda-forge/conda-smithy/90845bba35bec53edac7a16638aa4d77217a3713/conda_smithy/static/disabled.svg)
+
+Current release info
+====================
+Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/gnureadline/badges/version.svg)](https://anaconda.org/conda-forge/gnureadline)
+Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/gnureadline/badges/downloads.svg)](https://anaconda.org/conda-forge/gnureadline)
+
 Installing gnureadline
 ======================
 
@@ -31,7 +43,6 @@ It is possible to list all of the versions of `gnureadline` available on your pl
 ```
 conda search gnureadline --channel conda-forge
 ```
-
 
 
 About conda-forge
@@ -67,18 +78,6 @@ Terminology
 
 **conda-forge** - the place where the feedstock and smithy live and work to
                   produce the finished article (built conda distributions)
-
-Current build status
-====================
-
-Linux: ![](https://cdn.rawgit.com/conda-forge/conda-smithy/90845bba35bec53edac7a16638aa4d77217a3713/conda_smithy/static/disabled.svg)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/gnureadline-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/gnureadline-feedstock)
-Windows: ![](https://cdn.rawgit.com/conda-forge/conda-smithy/90845bba35bec53edac7a16638aa4d77217a3713/conda_smithy/static/disabled.svg)
-
-Current release info
-====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/gnureadline/badges/version.svg)](https://anaconda.org/conda-forge/gnureadline)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/gnureadline/badges/downloads.svg)](https://anaconda.org/conda-forge/gnureadline)
 
 
 Updating gnureadline-feedstock
